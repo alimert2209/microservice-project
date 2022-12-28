@@ -16,3 +16,7 @@ On the frontend side of the project, simple html, css and javascript are used, a
 
 ## What does API Gateway do?
 The server port of the backend project using API Gateway is set to '8080' by default. The ports of the backend projects that do currency conversion are '8081' and '8082', respectively. A request is made by the client to port 8080, that is, API Gateway. API Gateway distributes it according to the URL of the incoming request and performs the requested operation.
+
+<hr>
+
+![Image](https://user-images.githubusercontent.com/74821442/209805721-5a6dbb0a-01f5-4663-9be2-ef46448262c0.png)
